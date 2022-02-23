@@ -1,6 +1,6 @@
 Repository with files of the assignment for the Phd course of parallel programming.
 
-The folder sim0 has files of the first simulation.
+Folders contain files of the first simulation.
 Surface module parameters in prepro/hap.in file are:
 
 rivulet water-surface width (wsf_rf) = 20.0 m
