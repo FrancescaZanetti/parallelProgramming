@@ -1,9 +1,2 @@
-Repository with files of the assignment for the Phd course of parallel programming.
+Repository with files for the assignment for the Phd course of parallel programming.
 
-Folders contain files of the first simulation.
-Surface module parameters in prepro/hap.in file are:
-
-rivulet water-surface width (wsf_rf) = 20.0 m
-rivulet initial flow discharge (Qsi_rf) = 0.0 m3/s
-channel water-surface width (wsf_cf) = 5.0 m
-channel initial flow discharge (Qsi_cf) = 1.0 m3/s
